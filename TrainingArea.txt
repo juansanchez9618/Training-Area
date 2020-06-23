@@ -1,0 +1,9 @@
+//6-23-2020//
+
+Para el área de trainig de CCMS se llevara a cabo el projecto mediante GitHub con el fin de aplicar lo aprendido y tener todo el material requerido por el área de CCMS
+
+Este primer documento es la descripción del proyecto.
+
+La iniciativa nace a partir de la necesidad de tener el conocimiento necesario para llevar a cabo un proyecto informatico, este sera llevado con el modelo Scrum.
+
+
