@@ -1,8 +1,22 @@
-#                Manual de uso Basico de Git
+#                Manual de uso Basico de Git 
+
+![Logo 1](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Capturas/LogoTP.png)
+
+
+
+**Índice**   
+1. [Clonar repositorio](#id1)
+2. [Subir un cambio con Git](#id2)
+
+
+
+
+
+
 
 En este manual encontraran los aspectos basicos para iniciar el uso de Git
 
-## Clonar repositorio
+## Clonar repositorio<a name="id1"></a>
 
 + **Paso 1**
 
@@ -53,6 +67,9 @@ En la carpeta creada veremos los archivos descargados localmente del repositorio
 
 De esta forma quedaran los archivos guardados localmente para hacer uso de ellos.
 
+
+
+## Subir un cambio con Git<a name="id2"></a>
 
 
 
