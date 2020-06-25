@@ -1,4 +1,4 @@
-#                Manual de uso Básico de GIT
+#                Manual de uso Basico de Git
 
 
 En este manual encontraran los aspectos básicos para iniciar el uso de Git
@@ -192,6 +192,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAzODgzNjU0LDExMjU1NjEwODUsNTQ0Nz
-cwNSwtMjU2OTU0MjY1XX0=
+eyJoaXN0b3J5IjpbOTc4MjgwNzEwLDMwMzg4MzY1NCwxMTI1NT
+YxMDg1LDU0NDc3MDUsLTI1Njk1NDI2NV19
 -->
