@@ -19,7 +19,42 @@ Copiamos la URL donde está alojado el repositorio
 
                En ejemplo será uno  en Github
 
-![Clonar   repositorio 1](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Capturas/Clonar2.png)
+![Clonar   repositorio 2](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Capturas/Clonar2.png)
+
+
++ **Paso 4**
+
+Damos Clic derecho en la carpeta creada y seleccionamos la opción **Git Bash Here**
+
+![Clonar   repositorio 3](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Capturas/Clonar3.png)
+
+Nos abrirá el editor de Git 
+![Clonar   repositorio 4](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Capturas/Clonar4.png)
+
+
++ **Paso  5**
+
+Usamos el comando:
+
+**Git clone** y la URL del repositorio
+
+![Clonar   repositorio 5](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Capturas/Clonar5.png)
+
+Cargara la información del repositorio
+
+![Clonar   repositorio 6](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Capturas/Clonar6.png)
+
+
++ **Paso 6**
+En la carpeta creada veremos los archivos descargados localmente del repositorio
+
+![Clonar   repositorio 7](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Capturas/Clonar7.png)
+
+
+De esta forma quedaran los archivos guardados localmente para hacer uso de ellos.
+
+
+
 
 ## Create files and folders
 
