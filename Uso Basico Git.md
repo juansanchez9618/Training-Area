@@ -1,11 +1,19 @@
-##                   Training Area
+#                Manual de uso Basico de Git
 
-Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
+En este manual encontraran los aspectos basicos para iniciar el uso de Git
 
+## Clonar repositorio
 
-# Files
++ **Paso 1**
 
-StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
+Se necesita la URL del repositorio que se desea clonar
+
++ **Paso 2**
+
+Creamos una carpeta que será donde copiará el repositorio 
+
+![Clonar repositorio](C:\Users\sanchezmorales.29\Desktop\Clonar1.png)
+
 
 ## Create files and folders
 
