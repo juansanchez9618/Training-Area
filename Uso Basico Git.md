@@ -1,6 +1,7 @@
-#                Manual de uso Basico de Git
+#                Manual de uso Básico de GIT
 
-En este manual encontraran los aspectos basicos para iniciar el uso de Git
+
+En este manual encontraran los aspectos básicos para iniciar el uso de Git
 
 ## Clonar repositorio
 
@@ -191,6 +192,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNTU2MTA4NSw1NDQ3NzA1LC0yNTY5NT
-QyNjVdfQ==
+eyJoaXN0b3J5IjpbMzAzODgzNjU0LDExMjU1NjEwODUsNTQ0Nz
+cwNSwtMjU2OTU0MjY1XX0=
 -->
