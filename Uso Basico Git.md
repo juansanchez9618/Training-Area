@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #                Manual de uso Basico de Git 
+=======
+#                Manual de uso Basico de Git
+>>>>>>> e27c6874f66784937322c3ddfb633f06488a91c2
 
 ![Logo 1](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Capturas/LogoTP.png)
 
@@ -209,6 +213,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
+<<<<<<< HEAD
 eyJoaXN0b3J5IjpbMTEyNTU2MTA4NSw1NDQ3NzA1LC0yNTY5NT
 QyNjVdfQ==
+=======
+eyJoaXN0b3J5IjpbOTc4MjgwNzEwLDMwMzg4MzY1NCwxMTI1NT
+YxMDg1LDU0NDc3MDUsLTI1Njk1NDI2NV19
+>>>>>>> e27c6874f66784937322c3ddfb633f06488a91c2
 -->
