@@ -10,7 +10,7 @@ Se necesita la URL del repositorio que se desea clonar
 
 + **Paso 2**
 
-Creamos una carpeta que será donde copiará el repositorio 
+Creamos una carpeta que serÃ¡ donde copiarÃ¡ el repositorio 
 
 ![Clonar repositorio](C:\Users\sanchezmorales.29\Desktop\Clonar1.png)
 
@@ -150,5 +150,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1Njk1NDI2NV19
+eyJoaXN0b3J5IjpbNTQ0NzcwNSwtMjU2OTU0MjY1XX0=
 -->
