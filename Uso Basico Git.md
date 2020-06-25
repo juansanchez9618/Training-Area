@@ -12,8 +12,14 @@ Se necesita la URL del repositorio que se desea clonar
 
 Creamos una carpeta que será donde copiará el repositorio 
 
-![Clonar   repositorio](https://github.com/juansanchez9618/Training-Area/blob/master/Capturas/Clonar1.jpg)
+![Clonar   repositorio 1](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Capturas/Clonar1.png)
 
++ **Paso 3** 
+Copiamos la URL donde está alojado el repositorio
+
+               En ejemplo será uno  en Github
+
+![Clonar   repositorio 1](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Capturas/Clonar2.png)
 
 ## Create files and folders
 
