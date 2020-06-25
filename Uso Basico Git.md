@@ -12,7 +12,7 @@ Se necesita la URL del repositorio que se desea clonar
 
 Creamos una carpeta que será donde copiará el repositorio 
 
-![Clonar repositorio](C:\Users\sanchezmorales.29\Desktop\Clonar1.png)
+![Clonar   repositorio](https://github.com/juansanchez9618/Training-Area/blob/master/Capturas/Clonar1.jpg)
 
 
 ## Create files and folders
@@ -150,5 +150,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ0NzcwNSwtMjU2OTU0MjY1XX0=
+eyJoaXN0b3J5IjpbMTEyNTU2MTA4NSw1NDQ3NzA1LC0yNTY5NT
+QyNjVdfQ==
 -->
