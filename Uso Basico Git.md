@@ -4,7 +4,7 @@
 **Índice**   
 1. [Clonar repositorio](#id1)
 2. [Subir un cambio con Git](#id2)
-
+3. [Como Hacer un Merge](#id3)
 
 
 
@@ -212,4 +212,7 @@ QyNjVdfQ==
 eyJoaXN0b3J5IjpbOTc4MjgwNzEwLDMwMzg4MzY1NCwxMTI1NT
 YxMDg1LDU0NDc3MDUsLTI1Njk1NDI2NV19
 >>>>>>> e27c6874f66784937322c3ddfb633f06488a91c2
+-->
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNDQ0MDM1MDU4LC01NzgzNjkwODldfQ==
 -->
