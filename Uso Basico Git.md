@@ -68,7 +68,7 @@ De esta forma quedaran los archivos guardados localmente para hacer uso de ellos
 
 ## Subir un cambio con Git<a name="id2"></a>
 
-
+## Como Hacer un Merge<a name="id3"></a>
 
 ## Create files and folders
 
