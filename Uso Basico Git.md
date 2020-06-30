@@ -267,6 +267,7 @@ Ya como tenemos la conexión del repositorio local con github cuando tengamos ca
 
 Usamos el comando **git push**
 
+____________________
 
 
 ## Create files and folders
