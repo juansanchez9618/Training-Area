@@ -225,7 +225,7 @@ Iniciar el proyecto
 
 Usamos el comandos **Git init**
 
-![push 1](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Capturas/push1.png)
+![push 1](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Capturas/merge1.png)
 
 + **Paso 2**
 
@@ -248,7 +248,7 @@ Usamos el comandos **git push -u origin master**
 La primera vez nos solicitara las credenciales del repositorio.
 
 
-![push 3](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Capturas/push3.png)
+
 
 Despues de confirmar las credenciales empezara a subir la información al repositorio.
 
