@@ -39,6 +39,7 @@ Damos Clic derecho en la carpeta creada y seleccionamos la opción **Git Bash He
 
 ![Clonar   repositorio 3](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Capturas/Clonar3.png)
 
+
 Nos abrirá el editor de Git 
 ![Clonar   repositorio 4](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Capturas/Clonar4.png)
 
@@ -67,6 +68,44 @@ De esta forma quedaran los archivos guardados localmente para hacer uso de ellos
 
 
 ## Subir un cambio con Git<a name="id2"></a>
+
++ **Paso 1**
+Abrimos el proyecto 
+
+![Cambios 1](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Capturas/Cambio1.png)
+
+Iniciamos el proyecto con
+
+ **Git init**
+
+![Cambios 2](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Capturas/Cambio2.png)
+
++ **Paso 2**
+
+
+Realizamos los cambios o modificaciones en el proyecto
+
+Al visualizar el explorador de soluciones tenemos cambios que no se han agregado
+
+
+![Cambios 3](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Capturas/Cambio3.png)
+
+
++ **Paso 3**
+
+Usamos el comando **git status**
+
+Para validar que elementos nuevos encuentra 
+
+![Cambios 4](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Capturas/Cambio4.png)
+
+Se veran resaltados en rojo las modificaciones o archivos nuevos que encuentra pero no se han guardado.
+
++ **Paso 4**
+
+Usamos el comando **Git add A-
+
+
 
 ## Como Hacer un Merge<a name="id3"></a>
 
