@@ -103,16 +103,31 @@ Se veran resaltados en rojo las modificaciones o archivos nuevos que encuentra p
 
 + **Paso 4**
 
-Agregamos los archivos al repositorio con el comando **git add -A**
+Agregamos los archivos para subir repositorio con el comando **git add -A**
 
 ![Cambios 5](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Capturas/Cambio5.png)
 
-Usamos el comando **git add -A**
+Usamos el comando **git status**
 
 ![Cambios 6](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Capturas/Cambio6.png)
 
+Se veran reflejados los cambios listos para agregarlos al repositorio.
 
 + **Paso 5**
+
+Para subir los cambios usaremos el comados **git commit -m "Descripción"**
+
+En la descripción debemos especificar que cambios se estan subiendo
+
+![Cambios 7](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Capturas/Cambio7.png)
+
+
+Validaremos en el explorador de soluciones que el cambio se realizo correctamente 
+
+
+![Cambios 8](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Capturas/Cambio8.png)
+
+De esta forma tendremos el cambio o modificación guardado en el repositorio localmente.
 
 
 
@@ -121,10 +136,14 @@ Usamos el comando **git add -A**
 
 ## Como Hacer un Merge<a name="id3"></a>
 
+
++ **Paso1**
++
+
 ## Create files and folders
 
 The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
-
+	
 ## Switch to another file
 
 All your files and folders are presented as a tree in the file explorer. You can switch from one to another by clicking a file in the tree.
