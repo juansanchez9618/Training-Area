@@ -103,7 +103,19 @@ Se veran resaltados en rojo las modificaciones o archivos nuevos que encuentra p
 
 + **Paso 4**
 
-Usamos el comando **Git add A-
+Agregamos los archivos al repositorio con el comando **git add -A**
+
+![Cambios 5](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Capturas/Cambio5.png)
+
+Usamos el comando **git add -A**
+
+![Cambios 6](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Capturas/Cambio6.png)
+
+
++ **Paso 5**
+
+
+
 
 
 
@@ -253,6 +265,5 @@ YxMDg1LDU0NDc3MDUsLTI1Njk1NDI2NV19
 >>>>>>> e27c6874f66784937322c3ddfb633f06488a91c2
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTUyNjE2NDMsNDQ0MDM1MDU4LC01Nz
-gzNjkwODldfQ==
+eyJoaXN0b3J5IjpbNDQ0MDM1MDU4LC01NzgzNjkwODldfQ==
 -->
