@@ -5,6 +5,8 @@
 1. [Clonar repositorio](#id1)
 2. [Subir un cambio con Git](#id2)
 3. [Como Hacer un Merge](#id3)
+4. [Como subir los cambios a un repositorio en la nube](#id4)
+
 
 
 
@@ -137,8 +139,135 @@ De esta forma tendremos el cambio o modificación guardado en el repositorio loc
 ## Como Hacer un Merge<a name="id3"></a>
 
 
-+ **Paso1**
-+
++ **Paso 1**
+
+Iniciamos el proyecto usando el comando **git init**
+
+![merge 1](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Capturas/merge1.png)
+
+
+
+
++ **Paso 2**
+
+Debemos crear una rama que será donde realicemos los cambios para luego realizar el merge a la rama principal llamada **Master**
+
+Usamos el comando **git branch "nombre"**
+
+![merge 2](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Capturas/merge2.png)
+
+
++ **Paso 3**
+
+Despues de crear la nueva rama, vamos a posicionarnos en ella
+
+
+Usamos el comando **git checkout "nombre de la rama"**
+
+![merge 3](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Capturas/merge3.png)
+
+En la ruta veremos que estamos en la rama **pruebamerge** o usamos el comando **git branch**
+
+
+![merge 4](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Capturas/merge4.png)
+
+En verde nos resaltara la rama donde estamos posicionados.
+
+
++ **Paso 4**
+
+Una vez hecho esto procedemos a realizar nuestros cambios o modificaciones en algún archivo del repositorio o crear uno nuevo.
+
+![merge 5](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Capturas/merge5.png)
+
++ **Paso 5**
+
+Con los cambios realizados los alistaremos para agregarlos al repositorio
+
+Usamos el comando **git add -A**
+
+![merge 6](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Capturas/merge6.png)
+
+A continuación cargaremos los cambios al repositorio en la rama creada
+
+Usamos el comando **git commit -m "Descripción"**
+
+![merge 7](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Capturas/merge7.png)
+
+Despues de haber realizado el commit, volveremos a la rama **Master** para unificar los cambios
+
++ **Paso 6**
+
+Usamos el comando **git checkout master** para volver a la rama principal
+
+![merge 8](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Capturas/merge8.png)
+
+Estando en la rama principal usamos el comado **git merge pruebamerge** para realizar la union.
+
+
+![merge 9](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Capturas/merge9.png)
+
+veremos los cambios guardados en la rama principal.
+
+![merge 10](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Capturas/merge10.png)
+
+
+
+
+## Como subir los cambios a un repositorio en la nube<a name="id4"></a>
+
+Debemos tener un repositorio en la nube donde haremos el push 
+
++ **Paso 1**
+
+Iniciar el proyecto
+
+
+Usamos el comandos **Git init**
+
+![push 1](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Capturas/push1.png)
+
++ **Paso 2**
+
+Debemos tener commits realizados
+
+Para subir los cambios, primero debemo crear una conexión con el repositorio
+
+Usamos el comandos **git remote add origin https://github.com/juansanchez9618/Prueba-TP.git**
+
+Es necesario la URL donde esta esta el repositorio en la nube, en este ejemplo utilizaremos uno de prueba
+
+![push 2](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Capturas/push2.png)
+
++ **Paso 3**
+
+Ya tenemos la union al repositorio, ahora solicitaremos subir los cambios a dicho repositorio.
+
+Usamos el comandos **git push -u origin master**
+
+La primera vez nos solicitara las credenciales del repositorio.
+
+
+![push 3](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Capturas/push3.png)
+
+Despues de confirmar las credenciales empezara a subir la información al repositorio.
+
+
+![push 4](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Capturas/push4.png)
+
+
+Una vez finalice podemos validar en github o donde tengamos el repositorio que ya estan los cambios.
+
+![push 5](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Capturas/push5.png)
+
+
++ **Paso 4**
+
+Ya como tenemos la conexión del repositorio local con github cuando tengamos cambios que subir.
+
+Usamos el comando **git push**
+
+
 
 ## Create files and folders
 
