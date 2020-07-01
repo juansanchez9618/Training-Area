@@ -3,6 +3,8 @@
 
 ---
 
+<hr>
+<hr>
 <h1 id="manual-de-uso-basico-de-git">Manual de uso Basico de Git</h1>
 <p><strong>Índice</strong></p>
 <ol>
