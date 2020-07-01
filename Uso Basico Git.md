@@ -2,7 +2,7 @@
 
 
 **Índice**   
-1. [Clonar Repositorio](#idEncabezado1)
+1. [Clonar Repositorio](#h1)
 2. [Subir un cambio con Git](#idEncabezado2)
 3. [Como Hacer un Merge](#idEncabezado3)
 4. [Como subir los cambios a un repositorio en la nube](#idEncabezado4)
@@ -14,10 +14,9 @@
 
 
 
-
 En este manual encontraran los aspectos básicos para iniciar el uso de Git.
 
-## Clonar repositorio{#idEncabezado1}
+## <h1 id="Clonar Repositorio">Clonar repositorio</h1>
 
 + **Paso 1**
 
