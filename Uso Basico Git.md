@@ -1,4 +1,4 @@
-#                Manual de uso Basico de Git 
+#                Manual de uso Basico de Git   ![TP](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Capturas/LogoTP1.png)
 
 
 **Índice**   
