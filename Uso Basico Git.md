@@ -2,10 +2,10 @@
 
 
 **Índice**   
-1. [Clonar Repositorio](#h1)
-2. [Subir un cambio con Git](#idEncabezado2)
-3. [Como Hacer un Merge](#idEncabezado3)
-4. [Como subir los cambios a un repositorio en la nube](#idEncabezado4)
+1. [Clonar Repositorio](#Clonar-Repositorio)
+2. [Subir un cambio con Git](#Subir-un-cambio-con-Git)
+3. [Como Hacer un Merge](#Como-Hacer-un-Merge)
+4. [Como subir los cambios a un repositorio en la nube](#Como-subir-los-cambios-a-un-repositorio-en-la-nube)
 
 
 
@@ -16,7 +16,9 @@
 
 En este manual encontraran los aspectos básicos para iniciar el uso de Git.
 
-## <h1 id="Clonar Repositorio">Clonar repositorio</h1>
+
+
+## Clonar Repositorio
 
 + **Paso 1**
 
@@ -71,7 +73,7 @@ De esta forma quedaran los archivos guardados localmente para hacer uso de ellos
 
 
 
-## Subir un cambio con Git{#idEncabezado2}
+## Subir un cambio con Git
 
 + **Paso 1**
 Abrimos el proyecto. 
@@ -138,7 +140,7 @@ De esta forma tendremos el cambio o modificación guardado en el repositorio loc
 
 
 
-## Como Hacer un Merge{#idEncabezado3}
+## Como Hacer un Merge
 
 
 + **Paso 1**
@@ -216,7 +218,7 @@ veremos los cambios guardados en la rama principal.
 
 
 
-## Como subir los cambios a un repositorio en la nube{#idEncabezado4}
+## Como subir los cambios a un repositorio en la nube
 
 Debemos tener un repositorio en la nube donde haremos el push.
 
