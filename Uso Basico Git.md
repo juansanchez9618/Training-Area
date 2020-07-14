@@ -28,26 +28,26 @@ Se necesita la URL del repositorio que se desea clonar.
 
 Creamos una carpeta que será donde copiará el repositorio.
 
-![Clonar   repositorio 1](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Capturas/Clonar1.png)
+![Clonar   repositorio 1](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/Clonar1.png)
 
 + **Paso 3** 
 Copiamos la URL donde está alojado el repositorio.
 
                En ejemplo será uno  en Github
 
-![Clonar   repositorio 2](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Capturas/Clonar2.png)
+![Clonar   repositorio 2](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/Clonar2.png)
 
 
 + **Paso 4**
 
 Damos Clic derecho en la carpeta creada y seleccionamos la opción **Git Bash Here**
 
-![Clonar   repositorio 3](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Capturas/Clonar3.png)
+![Clonar   repositorio 3](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/Clonar3.png)
 
 
 Nos abrirá el editor de Git. 
 
-![Clonar   repositorio 4](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Capturas/Clonar4.png)
+![Clonar   repositorio 4](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/Clonar4.png)
 
 
 + **Paso  5**
@@ -56,17 +56,17 @@ Usamos el comando:
 
 **Git clone** y la URL del repositorio.
 
-![Clonar   repositorio 5](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Capturas/Clonar5.png)
+![Clonar   repositorio 5](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/Clonar5.png)
 
 Cargara la información del repositorio.
 
-![Clonar   repositorio 6](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Capturas/Clonar6.png)
+![Clonar   repositorio 6](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/Clonar6.png)
 
 
 + **Paso 6**
 En la carpeta creada veremos los archivos descargados localmente del repositorio.
 
-![Clonar   repositorio 7](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Capturas/Clonar7.png)
+![Clonar   repositorio 7](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/Clonar7.png)
 
 
 De esta forma quedaran los archivos guardados localmente para hacer uso de ellos.
@@ -78,13 +78,13 @@ De esta forma quedaran los archivos guardados localmente para hacer uso de ellos
 + **Paso 1**
 Abrimos el proyecto. 
 
-![Cambios 1](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Capturas/Cambio1.png)
+![Cambios 1](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/Cambio1.png)
 
 Iniciamos el proyecto con
 
  **Git init**
 
-![Cambios 2](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Capturas/Cambio2.png)
+![Cambios 2](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/Cambio2.png)
 
 + **Paso 2**
 
@@ -94,7 +94,7 @@ Realizamos los cambios o modificaciones en el proyecto.
 Al visualizar el explorador de soluciones tenemos cambios que no se han agregado.
 
 
-![Cambios 3](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Capturas/Cambio3.png)
+![Cambios 3](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/Cambio3.png)
 
 
 + **Paso 3**
@@ -103,7 +103,7 @@ Usamos el comando **git status**
 
 Para validar que elementos nuevos encuentra. 
 
-![Cambios 4](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Capturas/Cambio4.png)
+![Cambios 4](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/Cambio4.png)
 
 Se veran resaltados en rojo las modificaciones o archivos nuevos que encuentra pero no se han guardado.
 
@@ -111,11 +111,11 @@ Se veran resaltados en rojo las modificaciones o archivos nuevos que encuentra p
 
 Agregamos los archivos para subir repositorio con el comando **git add -A**
 
-![Cambios 5](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Capturas/Cambio5.png)
+![Cambios 5](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/Cambio5.png)
 
 Usamos el comando **git status**
 
-![Cambios 6](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Capturas/Cambio6.png)
+![Cambios 6](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/Cambio6.png)
 
 Se verán reflejados los cambios listos para agregarlos al repositorio.
 
@@ -125,13 +125,13 @@ Para subir los cambios usaremos el comado **git commit -m "Descripción"**
 
 En la descripción debemos especificar que cambios se están subiendo.
 
-![Cambios 7](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Capturas/Cambio7.png)
+![Cambios 7](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/Cambio7.png)
 
 
 Validaremos en el explorador de soluciones que el cambio se realizo correctamente. 
 
 
-![Cambios 8](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Capturas/Cambio8.png)
+![Cambios 8](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/Cambio8.png)
 
 De esta forma tendremos el cambio o modificación guardado en el repositorio localmente.
 
@@ -147,7 +147,7 @@ De esta forma tendremos el cambio o modificación guardado en el repositorio loc
 
 Iniciamos el proyecto usando el comando **git init**
 
-![merge 1](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Capturas/merge1.png)
+![merge 1](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/merge1.png)
 
 
 
@@ -158,7 +158,7 @@ Debemos crear una rama que será donde realicemos los cambios para luego realiza
 
 Usamos el comando **git branch "nombre"**
 
-![merge 2](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Capturas/merge2.png)
+![merge 2](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/merge2.png)
 
 
 + **Paso 3**
@@ -168,12 +168,12 @@ Después de crear la nueva rama, vamos a posicionarnos en ella.
 
 Usamos el comando **git checkout "nombre de la rama"**
 
-![merge 3](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Capturas/merge3.png)
+![merge 3](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/merge3.png)
 
 En la ruta veremos que estamos en la rama **pruebamerge** o usamos el comando **git branch**
 
 
-![merge 4](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Capturas/merge4.png)
+![merge 4](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/merge4.png)
 
 En verde nos resaltara la rama donde estamos posicionados.
 
@@ -182,21 +182,19 @@ En verde nos resaltara la rama donde estamos posicionados.
 
 Una vez hecho esto procedemos a realizar nuestros cambios o modificaciones en algún archivo del repositorio o crear uno nuevo.
 
-![merge 5](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Capturas/merge5.png)
-
+![merge 5](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/merge5.png)
 + **Paso 5**
 
 Con los cambios realizados los preparamos para agregarlos al repositorio.
 
 Usamos el comando **git add -A**
 
-![merge 6](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Capturas/merge6.png)
-
+![merge 6](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/merge6.png)
 A continuación cargaremos los cambios al repositorio en la rama creada
 
 Usamos el comando **git commit -m "Descripción"**
 
-![merge 7](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Capturas/merge7.png)
+![merge 7](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/merge7.png)
 
 Después de haber realizado el commit, volveremos a la rama **Master** para unificar los cambios.
 
@@ -204,16 +202,16 @@ Después de haber realizado el commit, volveremos a la rama **Master** para unif
 
 Usamos el comando **git checkout master** para volver a la rama principal.
 
-![merge 8](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Capturas/merge8.png)
+![merge 8](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/merge8.png)
 
 Estando en la rama principal usamos el comando **git merge pruebamerge** para realizar la unión.
 
 
-![merge 9](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Capturas/merge9.png)
+![merge 9](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/merge9.png)
 
 veremos los cambios guardados en la rama principal.
 
-![merge 10](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Capturas/merge10.png)
+![merge 10](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/merge10.png)
 
 
 
@@ -229,7 +227,7 @@ Iniciar el proyecto.
 
 Usamos el comando **Git init**
 
-![push 1](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Capturas/merge1.png)
+![push 1](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/merge1.png)
 
 + **Paso 2**
 
@@ -241,7 +239,7 @@ Usamos el comandos **git remote add origin https://github.com/juansanchez9618/Pr
 
 Es necesario la URL donde esta esta el repositorio en la nube, en este ejemplo utilizaremos uno de prueba.
 
-![push 2](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Capturas/push2.png)
+![push 2](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/push2.png)
 
 + **Paso 3**
 
@@ -252,19 +250,19 @@ Usamos el comando **git push -u origin master**
 La primera vez nos solicitara las credenciales del repositorio.
 
 
-![push 3](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Capturas/push6.png)
+![push 3](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/push6.png)
 
 
 
 Después de confirmar las credenciales empezara a subir la información al repositorio.
 
 
-![push 4](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Capturas/push4.png)
+![push 4](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/push4.png)
 
 
 Una vez finalice podemos validar en github o donde tengamos el repositorio que ya están los cambios.
 
-![push 5](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Capturas/push5.png)
+![push 5](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/push5.png)
 
 
 + **Paso 4**
