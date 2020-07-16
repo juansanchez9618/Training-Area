@@ -1,4 +1,4 @@
-#                Manual de uso Basico de Git
+#                Manual de uso Básico de Git
 
 
 **Índice**   

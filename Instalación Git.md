@@ -101,3 +101,7 @@ Finalmente se obtendra la interfaz de administración por consola de GIT 2.27.0 e
 
 
 
+
+## Bibliografia
+
+Git - Downloads. (2020). Retrieved 8 June 2020, from https://git-scm.com/downloads
