@@ -1,7 +1,7 @@
-#                Manual de uso B�sico de Node JS y Angular
+#                Manual de uso Básico Angular
 
 
-## Como abrir y compilar el proyecto desde el Backend 
+## Como abrir y compilar el proyecto desde el Backend. 
 
  + **Paso 1** 
 
@@ -39,7 +39,7 @@ Una vez termine de correr el comando estará listo el proyecto para su uso.
 
 + **Paso 5**
 
-**Nota**: validar que en la carpeta back-end este el archivo .env ya que es el que contiene las rutas y usuarios de acceso necesarios para el proyecto.
+**Nota**: validar que en la carpeta back-end este el archivo **.env** ya que es el que contiene las rutas y usuarios de acceso necesarios para el proyecto.
 
 ![AngularNodeJS](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/AngularNodeJS6.png)
 
@@ -72,7 +72,7 @@ Ubicar la ruta donde está el front.
 ![AngularNodeJS](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/AngularNodeJS8.png)
 
 
-También es necesario descargar e instalar las librerías necesarias 
+También es necesario descargar e instalar las librerías necesarias. 
 
 Usar el comando **nmp i** 
 
@@ -85,13 +85,13 @@ Ahora para compilar el proyecto en el front usar el comando **nmp run ng serve**
 ![AngularNodeJS](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/AngularNodeJS10.png)
 
 
-Deberá mostrar el mensaje **Compiled Successfully** donde confirma la compilación del front
+Deberá mostrar el mensaje **Compiled Successfully** donde confirma la compilación del front.
 
-Ahora que ya esta el back y el front compilados se tendra disponible el acceso al proyecto DisDev
+Ahora que ya esta el back y el front compilados se tendra disponible el acceso al proyecto DisDev.
 
 ![AngularNodeJS](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/AngularNodeJS12.png)
 
-Usar las credenciales de CCMS
+Usar las credenciales de CCMS.
 
 ![AngularNodeJS](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/AngularNodeJS13.png)
 
@@ -104,7 +104,7 @@ Con los pasos anteriormente indicados se obtendrá la visibilidad del proyecto j
 ____
 
 
-## Crear un Componente 
+## Crear un Componente. 
 
 
 + **Paso 1**
@@ -117,7 +117,10 @@ Para crear un componente es necesario estar en la ruta container dentro del fron
 
 + **Paso 2**
 
-Para crear un nuevo componente se necesita el comando npm run ng g c "nombre del componente" --skiptests
+Para crear un nuevo componente se necesita el comando 
+~~~
+npm run ng g c "nombre del componente" --skipTests
+~~~
 
 ![AngularNodeJS](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/AngularNodeJS15.png)
 
@@ -169,7 +172,82 @@ Adicional se evidencia que se importó el componente.
 ![AngularNodeJS](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/AngularNodeJS22.png)
 
 
-Ahora al guardar  automáticamente  volverá a compilar el proyecto.
+Ahora al guardar,  automáticamente  volverá a compilar el proyecto.
 
 
 ![AngularNodeJS](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/AngularNodeJS23.png)
+
+
+Al validar desde el navegador en el *localhost:4200/main/trainingtest* que fue el nuevo componente se observa el botón creado.
+
+
+![AngularNodeJS](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/AngularNodeJS24.png)
+
+
+## Funciones.
+
+
++ **Paso 1**
+
+Es necesario usar el archivo **trainingtest.component.ts**
+
+![AngularNodeJS](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/AngularNodeJS25.png)
+
++ **Paso 2**
+
+
+Proceder a crear la función necesaria, como ejemplo será una que nos genere una notificación al hacer click en el botón creado anteriormente.
+
+
+![AngularNodeJS](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/AngularNodeJS26.png)
+
+En este caso la función ha sido creada y guardada pero es necesario llamarla en el botón creado.
+
+
++ **Paso 3**
+
+Volver  al archivo **.html** donde se creó el botón para agregar la función.
+
+
+![AngularNodeJS](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/AngularNodeJS27.png)
+
+
+Al momento de guardar  volverá a compilar el proyecto y en el navegador estará la función creada.
+
+
+![AngularNodeJS](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/AngularNodeJS28.png)
+
+
+## Realizar consulta a base de datos.
+
+
++ **Paso 1**
+
+En la ruta del Front se encuentra la carpeta llamada **Service**  en ella está el archivo *request.service.ts* en este se encuentra la información de conexión con la base de datos
+Para obtener o actualizar la información en ella.
+
+
+![AngularNodeJS](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/AngularNodeJS29.png)
+
+
+
++ **Paso 2**
+ 
+Volver al componente creado y crear una variable que será la que traerá la información consultada.
+
+![AngularNodeJS](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/AngularNodeJS30.png)
+
+Adicional es necesario indicar donde va a enviar la información, como ejemplo será en la consola del navegador.
+
+
+![AngularNodeJS](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/AngularNodeJS31.png)
+
+
+Volver a compilar el **Back-end**
+
+
+![AngularNodeJS](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/AngularNodeJS32.png)
+
+Al validar nuevamente el navegador, hacer click en el botón y verificar la consola del navegador donde se obtendrá la información solicitada a la base de datos.
+
+![AngularNodeJS](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/AngularNodeJS33.png)
