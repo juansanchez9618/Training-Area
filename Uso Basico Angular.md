@@ -1,12 +1,16 @@
 #                Manual de uso Básico Angular
 
 
-Contenido
+### Contenido
 
 * [Como abrir y compilar el proyecto desde el Backend.](#id1)
 * [Como abrir y compilar el proyecto desde el front.](#id2)
-
-
+* [Crear un Componente.](#id3)
+* [Funciones.](#id4)
+* [Realizar consulta a base de datos.](#id5)
+* [Recomendaciones.](#id6)
+* [Contenido del proyecto.](#id7)
+___ 
 <div id='id1' />
 
 ## Como abrir y compilar el proyecto desde el Backend.
@@ -111,7 +115,7 @@ Con los pasos anteriormente indicados se obtendrá la visibilidad del proyecto j
 
 
 ____
-
+<div id='id3' />
 
 ## Crear un Componente. 
 
@@ -192,6 +196,9 @@ Al validar desde el navegador en el *localhost:4200/main/trainingtest* que fue e
 
 ![AngularNodeJS](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/AngularNodeJS24.png)
 
+___
+
+<div id='id4' />
 
 ## Funciones.
 
@@ -226,6 +233,9 @@ Al momento de guardar  volverá a compilar el proyecto y en el navegador estará
 
 ![AngularNodeJS](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/AngularNodeJS28.png)
 
+___
+
+<div id='id5' />
 
 ## Realizar consulta a base de datos.
 
@@ -262,6 +272,7 @@ Al validar nuevamente el navegador, hacer click en el botón y verificar la cons
 ![AngularNodeJS](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/AngularNodeJS33.png)
 
 ______
+<div id='id6' />
 
 ## Recomendaciones
 
@@ -270,6 +281,8 @@ ______
 + Revisa los guard de angular, puedes proteger los componentes según criterios específicos.
 
 ____
+<div id='id7' />
+
 ## Contenido del proyecto:
 
 * [Guards angular](https://angular.io/guide/router#preventing-unauthorized-access)
@@ -280,4 +293,3 @@ ____
 * [boostrap 4](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
 * [eva icons](https://akveo.github.io/eva-icons/#/)
 * [ng2 smart table](https://akveo.github.io/ng2-smart-table/#/)
-

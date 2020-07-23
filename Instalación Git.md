@@ -1,103 +1,103 @@
-#                Manual de instalación de Git
+#                Manual de instalaciÃ³n de Git
 
 
+___
+En este manual encontrarÃ¡n una guÃ­a con la instalaciÃ³n de Git
+___
 
-En este manual encontrarán una guía con la instalación de Git
 
-
-
-## Instalación Git
+## InstalaciÃ³n Git
 
 + **Paso 1**
 
-Para iniciar con la instalación de GIT es recomendable ir a la página oficial la cual es https://git-scm.com/downloads, de esta manera se genera la descarga con el ejecutable de manera segura.
+Para iniciar con la instalaciÃ³n de GIT es recomendable ir a la pÃ¡gina oficial la cual es https://git-scm.com/downloads, de esta manera se genera la descarga con el ejecutable de manera segura.
 
-![Instalación1](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/Instalación1.png)
+![InstalaciÃ³n1](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/InstalaciÃ³n1.png)
 
 + **Paso 2**
 
  
-Hacer click sobre “Download 2.27.0 for Windows” ya que el sistema detecta el sistema operativo en uso y  entrega la versión más reciente.
-Se observa la información relacionada a la licencia GNU en su versión 2 de junio de 1991.
+Hacer click sobre *Download 2.27.0 for Windows* ya que el sistema detecta el sistema operativo en uso y  entrega la versiÃ³n mÃ¡s reciente.
+Se observa la informaciÃ³n relacionada a la licencia GNU en su versiÃ³n 2 de junio de 1991.
 
-![Instalación2](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/Instalación2.png)
+![InstalaciÃ³n2](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/InstalaciÃ³n2.png)
 
 + **Paso 3**
 
 
-Hacer click en Next o siguiente dependiendo el idioma de instalación disponible.
-Ahora el sistema pregunta la ruta de instalación y  entrega una por defecto, la cual no es recomendable cambiar.
+Hacer click en Next o siguiente dependiendo el idioma de instalaciÃ³n disponible.
+Ahora el sistema pregunta la ruta de instalaciÃ³n y  entrega una por defecto, la cual no es recomendable cambiar.
 
-![Instalación3](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/Instalación3.png)
+![InstalaciÃ³n3](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/InstalaciÃ³n3.png)
 
 + **Paso 4**
 
 
-Se debe seleccionar los componentes que son necesarios  instalar como lo son; crear un icono en el escritorio, asociar los archivos dependiendo de su extensión. 
+Se debe seleccionar los componentes que son necesarios  instalar como lo son; crear un icono en el escritorio, asociar los archivos dependiendo de su extensiÃ³n. 
 
-![Instalación4](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/Instalación4.png)
-
-
-Seguir la instalación con la selección del programa, si es necesario seleccionar una carpeta diferente a la creada de manera estándar “Git” para el menú de inicio, ahora hacer click en “Next”
-
-![Instalación5](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/Instalación5.png)
+![InstalaciÃ³n4](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/InstalaciÃ³n4.png)
 
 
-Se debe seleccionar el editor por defecto que utilizará la herramienta, obtendra una lista desplegable para elegir el que mejor se  adapte a las necesidades, si es la primera vez usando GIT se recomienda utilizar la que trae por defecto el instalador.
+Seguir la instalaciÃ³n con la selecciÃ³n del programa, si es necesario seleccionar una carpeta diferente a la creada de manera estÃ¡ndar **Git** para el menÃº de inicio, ahora hacer click en **Next**
 
-![Instalación6](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/Instalación6.png)
-
-
-A continuación, se listarán los editores disponibles.
-
-![Instalación7](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/Instalación7.png)
+![InstalaciÃ³n5](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/InstalaciÃ³n5.png)
 
 
-Luego de la elección del editor hacer click en el botón Next o siguiente.
+Se debe seleccionar el editor por defecto que utilizarÃ¡ la herramienta, obtendra una lista desplegable para elegir el que mejor se  adapte a las necesidades, si es la primera vez usando GIT se recomienda utilizar la que trae por defecto el instalador.
 
-![Instalación8](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/Instalación8.png)
-
-
-La opción recomendada permite a GIT ser ejecutada desde el símbolo de Sistema de Windows 10.
-
-![Instalación9](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/Instalación9.png)
+![InstalaciÃ³n6](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/InstalaciÃ³n6.png)
 
 
-Seleccionar la librería OpenSSL la cual permite que el servidor valide los certificados utilizados por los archivos.
+A continuaciÃ³n, se listarÃ¡n los editores disponibles.
 
-Seleccionar la línea de conversión final de revisión de los archivos como lo pueden ser archivos LF a CRLF.
+![InstalaciÃ³n7](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/InstalaciÃ³n7.png)
 
-![Instalación10](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/Instalación10.png)
+
+Luego de la elecciÃ³n del editor hacer click en el botÃ³n Next o siguiente.
+
+![InstalaciÃ³n8](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/InstalaciÃ³n8.png)
+
+
+La opciÃ³n recomendada permite a GIT ser ejecutada desde el sÃ­mbolo de Sistema de Windows 10.
+
+![InstalaciÃ³n9](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/InstalaciÃ³n9.png)
+
+
+Seleccionar la librerÃ­a **OpenSSL** la cual permite que el servidor valide los certificados utilizados por los archivos.
+
+Seleccionar la lÃ­nea de conversiÃ³n final de revisiÃ³n de los archivos como lo pueden ser archivos LF a CRLF.
+
+![InstalaciÃ³n10](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/InstalaciÃ³n10.png)
 
 
 Seleccionar el emulador de la terminal a utilizar que mejor se adapte a las necesidades.
 
-![Instalación11](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/Instalación11.png)
+![InstalaciÃ³n11](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/InstalaciÃ³n11.png)
 
-Luego de hacer click en “Next” se debe elegir el comportamiento de “Git Pull” el cual  permitirá dejar en otro “Branch” los cambios realizados antes de hacer el “Git Merge” (ver la sección de términos y definiciones), se mantendra en “Default” luego hacer click al botón “Next”.
+Luego de hacer click en **Next** se debe elegir el comportamiento de **Git Pull** el cual  permitirÃ¡ dejar en otro **Branch** los cambios realizados antes de hacer el **Git Merge** (ver la secciÃ³n de tÃ©rminos y definiciones), se mantendra en **Default** luego hacer click al botÃ³n **Next**.
 
-![Instalación12](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/Instalación12.png)
-
-
-Seleccionar las opciones de configuración extra, escoger los dos primeros para habilitar el almacenamiento de cache del sistema de archivos y administración de credenciales.
-
-![Instalación13](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/Instalación13.png)
+![InstalaciÃ³n12](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/InstalaciÃ³n12.png)
 
 
-Se podra ver luego de hacer click a “Next” como inicia la instalación de GIT 2.27.0 en Windows 10.
+Seleccionar las opciones de configuraciÃ³n extra, escoger los dos primeros para habilitar el almacenamiento de cache del sistema de archivos y administraciÃ³n de credenciales.
 
-![Instalación14](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/Instalación14.png)
-
-
-
-Luego de unos minutos el sistema  indicara que la instalación se completó, dejando seleccionadas las opciones de lanzamiento de Git Bash y ver las notas de las versiones, pulsar en Siguiente
-
-![Instalación15](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/Instalación15.png)
+![InstalaciÃ³n13](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/InstalaciÃ³n13.png)
 
 
-Finalmente se obtendra la interfaz de administración por consola de GIT 2.27.0 en Windows 10.
+Se podra ver luego de hacer click a **Next** como inicia la instalaciÃ³n de GIT 2.27.0 en Windows 10.
 
-![Instalación16](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/Instalación16.png)
+![InstalaciÃ³n14](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/InstalaciÃ³n14.png)
+
+
+
+Luego de unos minutos el sistema  indicara que la instalaciÃ³n se completo, dejando seleccionadas las opciones de lanzamiento de Git Bash y ver las notas de las versiones, pulsar en Siguiente
+
+![InstalaciÃ³n15](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/InstalaciÃ³n15.png)
+
+
+Finalmente se obtendra la interfaz de administraciÃ³n por consola de GIT 2.27.0 en Windows 10.
+
+![InstalaciÃ³n16](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/InstalaciÃ³n16.png)
 
 
 
@@ -105,3 +105,4 @@ Finalmente se obtendra la interfaz de administración por consola de GIT 2.27.0 e
 ## Bibliografia
 
 Git - Downloads. (2020). Retrieved 8 June 2020, from https://git-scm.com/downloads
+
