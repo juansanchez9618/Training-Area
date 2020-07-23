@@ -1,7 +1,11 @@
 #                Manual de uso Básico Angular
 
 
-## Como abrir y compilar el proyecto desde el Backend. 
+Contenido
+
+* [Como abrir y compilar el proyecto desde el Backend.](#p1)
+
+## Como abrir y compilar el proyecto desde el Backend.{#p1} 
 
  + **Paso 1** 
 
@@ -251,3 +255,24 @@ Volver a compilar el **Back-end**
 Al validar nuevamente el navegador, hacer click en el botón y verificar la consola del navegador donde se obtendrá la información solicitada a la base de datos.
 
 ![AngularNodeJS](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/AngularNodeJS33.png)
+
+______
+
+## Recomendaciones
+
+
++ Usa 'request.service' para centralizar las solicitudes al back.
++ Revisa los guard de angular, puedes proteger los componentes según criterios específicos.
+
+____
+## Contenido del proyecto:
+
+* [Guards angular](https://angular.io/guide/router#preventing-unauthorized-access)
+* [Interceptor angular](https://angular.io/api/common/http/HttpInterceptor)
+* [localStorage](https://developer.mozilla.org/es/docs/Web/API/Window/localStorage)
+* [formularios reactivos](https://angular.io/guide/reactive-forms)
+* [nebular](https://akveo.github.io/nebular/docs/components/components-overview)
+* [boostrap 4](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
+* [eva icons](https://akveo.github.io/eva-icons/#/)
+* [ng2 smart table](https://akveo.github.io/ng2-smart-table/#/)
+
