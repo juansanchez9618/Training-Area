@@ -38,7 +38,7 @@ Se debe seleccionar los componentes que son necesarios  instalar como lo son; cr
 ![Instalación4](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/Instalación4.png)
 
 
-Seguir la instalación con la selección del programa, si es necesario seleccionar una carpeta diferente a la creada de manera estándar **Git** para el menú de inicio, ahora hacer click en **Next**
+Seguir la instalación con la selección del programa, si es necesario seleccionar una carpeta diferente a la creada de manera estándar **Git para el menú de inicio, ahora hacer click en **Next
 
 ![Instalación5](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/Instalación5.png)
 
@@ -74,7 +74,7 @@ Seleccionar el emulador de la terminal a utilizar que mejor se adapte a las nece
 
 ![Instalación11](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/Instalación11.png)
 
-Luego de hacer click en **Next** se debe elegir el comportamiento de **Git Pull** el cual  permitirá dejar en otro **Branch** los cambios realizados antes de hacer el **Git Merge** (ver la sección de términos y definiciones), se mantendra en **Default** luego hacer click al botón **Next**.
+Luego de hacer click en **Next se debe elegir el comportamiento de **Git Pull el cual  permitirá dejar en otro **Branch los cambios realizados antes de hacer el **Git Merge** (ver la sección de términos y definiciones), se mantendra en **Default luego hacer click al botón **Next.
 
 ![Instalación12](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/Instalación12.png)
 
@@ -84,7 +84,7 @@ Seleccionar las opciones de configuración extra, escoger los dos primeros para 
 ![Instalación13](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/Instalación13.png)
 
 
-Se podra ver luego de hacer click a **Next** como inicia la instalación de GIT 2.27.0 en Windows 10.
+Se podra ver luego de hacer click a **Next como inicia la instalación de GIT 2.27.0 en Windows 10.
 
 ![Instalación14](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/Instalación14.png)
 
@@ -106,3 +106,6 @@ Finalmente se obtendra la interfaz de administración por consola de GIT 2.27.0 
 
 Git - Downloads. (2020). Retrieved 8 June 2020, from https://git-scm.com/downloads
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTk4ODU2ODMyN119
+-->
