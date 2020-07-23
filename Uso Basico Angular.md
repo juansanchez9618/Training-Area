@@ -3,12 +3,15 @@
 
 Contenido
 
-* [Como abrir y compilar el proyecto desde el Backend.](#p1)
+* [Como abrir y compilar el proyecto desde el Backend.](#id1)
+* [Como abrir y compilar el proyecto desde el front.](#id2)
 
-## Como abrir y compilar el proyecto desde el Backend 
-{#p1} 
 
- + **Paso 1** 
+<div id='id1' />
+
+## Como abrir y compilar el proyecto desde el Backend.
+
++ **Paso 1** 
 
 Descargar repositorio donde está alojado el proyecto.
 
@@ -64,8 +67,9 @@ De momento no va a funcionar el Log in ya que hace falta compilar el front.
 ___ 
 
 
+<div id='id2' />
 
-## Como abrir y compilar el proyecto desde el front
+## Como abrir y compilar el proyecto desde el front.
 
 
  + **Paso 1** 
