@@ -1,4 +1,4 @@
-#                Manual de uso Básico de Git
+#                Manual de uso Bsico de Git
 
 
 **Índice**   
@@ -20,7 +20,7 @@ ___
 
 + **Paso 1**
 
-Es necesario la URL del repositorio que se desea clonar.
+Es necesioita la URL del repositorio que se desea clonar.
 
 + **Paso 2**
 
@@ -217,6 +217,7 @@ ___
 
 <div id='id4' />
 
+
 ## Como subir los cambios a un repositorio en la nube.
 
 Es necesario tener un repositorio en la nube donde realizar el push.
@@ -273,3 +274,6 @@ Ya como existe la conexión del repositorio local con github cuando se generen c
 Usar el comando **git push**
 
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTA5MjE0NjE2Nl19
+-->
