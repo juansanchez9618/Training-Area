@@ -55,18 +55,16 @@ Una vez termine de correr el comando estará listo el proyecto para su uso.
 
 ![AngularNodeJS](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/AngularNodeJS6.png)
 
+**Nota**: en caso de no tener el archivo **.env** solicitarlo al equipo de desarrollo.
+
 Usar el comando **node index.js** para compilar el proyecto, este deberá generar los datos de compilación en el respectivo puerto junto con la fecha y hora.
 
 
 ![AngularNodeJS](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/AngularNodeJS7.png)
 
-Validar el acceso en el navegador, para ello desde cualquier navegador acceder a **localhost:4200** que es donde está alojado el proyecto.
 
-Al acceder si todo funcionó correctamente nos debe aparecer el Log in.
 
-De momento no va a funcionar el Log in ya que hace falta compilar el front.
 
-![AngularNodeJS](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/AngularNodeJS11.png)
 
 ___ 
 
@@ -93,7 +91,7 @@ Usar el comando **nmp i**
 
 Paso 2
 
-Ahora para compilar el proyecto en el front usar el comando **nmp run ng serve**
+Ahora para compilar el proyecto en el front usar el comando **npm run ng serve**
 
 ![AngularNodeJS](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/AngularNodeJS10.png)
 
@@ -262,10 +260,7 @@ Adicional es necesario indicar donde va a enviar la información, como ejemplo s
 ![AngularNodeJS](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/AngularNodeJS31.png)
 
 
-Volver a compilar el **Back-end**
 
-
-![AngularNodeJS](https://raw.githubusercontent.com/juansanchez9618/Training-Area/master/Material/Capturas/AngularNodeJS32.png)
 
 Al validar nuevamente el navegador, hacer click en el botón y verificar la consola del navegador donde se obtendrá la información solicitada a la base de datos.
 
